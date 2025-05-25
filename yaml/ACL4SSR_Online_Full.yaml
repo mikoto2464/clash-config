@@ -502,3 +502,4 @@ rules:
   - "RULE-SET,Download,🎯 全球直连"
   - "GEOIP,CN,🎯 全球直连"
   - "MATCH,🐟 漏网之鱼"
+  - "DOMAIN-SUFFIX,qwen.ai,🎯 全球直连"
