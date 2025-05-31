@@ -470,6 +470,8 @@ rule-providers:
     type: http
 
 rules:
+  - "DOMAIN-SUFFIX,jsdelivr.com,🎯 全球直连"
+  - "DOMAIN-SUFFIX,mozilla.com,🎯 全球直连"
   - "DOMAIN-SUFFIX,qwen.ai,🎯 全球直连"
   - "DOMAIN-SUFFIX,csdn.net,🎯 全球直连"
   - "DOMAIN-SUFFIX,runoob.com,🎯 全球直连"
