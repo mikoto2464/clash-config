@@ -472,9 +472,12 @@ rule-providers:
 rules:
   - "DOMAIN-SUFFIX,jsdelivr.com,🎯 全球直连"
   - "DOMAIN-SUFFIX,mozilla.com,🎯 全球直连"
+  - "DOMAIN-SUFFIX,mozilla.org,🎯 全球直连"
+  - "DOMAIN-SUFFIX,firefox.com,🎯 全球直连"
   - "DOMAIN-SUFFIX,qwen.ai,🎯 全球直连"
   - "DOMAIN-SUFFIX,csdn.net,🎯 全球直连"
   - "DOMAIN-SUFFIX,runoob.com,🎯 全球直连"
+  - "DOMAIN-SUFFIX,rumt-zh.com,🎯 全球直连"
   - "RULE-SET,LocalAreaNetwork,🎯 全球直连"
   - "RULE-SET,UnBan,🎯 全球直连"
   - "RULE-SET,BanAD,🛑 广告拦截"
