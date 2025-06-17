@@ -470,6 +470,7 @@ rule-providers:
     type: http
 
 rules:
+  - "DOMAIN-SUFFIX,wiki.archlinuxcn.org,🎯 全球直连"
   - "DOMAIN-SUFFIX,jsdelivr.com,🎯 全球直连"
   - "DOMAIN-SUFFIX,mozilla.com,🎯 全球直连"
   - "DOMAIN-SUFFIX,mozilla.org,🎯 全球直连"
