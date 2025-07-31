@@ -483,7 +483,7 @@ rules:
   - "DOMAIN-SUFFIX,rumt-zh.com,🎯 全球直连"
   - "DOMAIN,steamcdn-a.akamaihd.net,🎯 全球直连"
   - "DOMAIN-SUFFIX,cm.steampowered.com,🎯 全球直连"
-  - "OMAIN-SUFFIX,cm.steampowered.com,🎯 全球直连"
+  - "DOMAIN-SUFFIX,cm.steampowered.com,🎯 全球直连"
   - "RULE-SET,LocalAreaNetwork,🎯 全球直连"
   - "RULE-SET,UnBan,🎯 全球直连"
   - "RULE-SET,BanAD,🛑 广告拦截"
