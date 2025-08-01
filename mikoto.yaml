@@ -170,8 +170,8 @@ proxy-groups:
   - name: 🎮 游戏平台
     type: select
     proxies:
-      - DIRECT
       - 🚀 节点选择
+      - DIRECT
       - 🇺🇲 美国节点
       - 🇭🇰 香港节点
       - 🇼🇸 台湾节点
