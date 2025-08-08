@@ -179,6 +179,18 @@ proxy-groups:
       - 🇯🇵 日本节点
       - 🇰🇷 韩国节点
       - 🚀 手动切换
+  - name: 🚫 禁漫天堂
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - DIRECT
+      - 🇺🇲 美国节点
+      - 🇭🇰 香港节点
+      - 🇼🇸 台湾节点
+      - 🇸🇬 狮城节点
+      - 🇯🇵 日本节点
+      - 🇰🇷 韩国节点
+      - 🚀 手动切换
   - name: 🎶 网易音乐
     type: select
     include-all: true
@@ -484,6 +496,8 @@ rules:
   - "DOMAIN,steamcdn-a.akamaihd.net,🎯 全球直连"
   - "DOMAIN-SUFFIX,cm.steampowered.com,🎯 全球直连"
   - "DOMAIN-SUFFIX,cm.steampowered.com,🎯 全球直连"
+  - "DOMAIN-SUFFIX,18comic.vip,🚫 禁漫天堂"
+  - "DOMAIN-SUFFIX,18comic.org,🚫 禁漫天堂"
   - "RULE-SET,LocalAreaNetwork,🎯 全球直连"
   - "RULE-SET,UnBan,🎯 全球直连"
   - "RULE-SET,BanAD,🛑 广告拦截"
